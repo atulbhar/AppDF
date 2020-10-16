@@ -4,7 +4,7 @@ Currently our small team doesn't have enough time to support and develop the pro
 I hope in the nearest future we will continue the work.    
 Thank you!
 
-AppDF
+AppDF-an amazing project
 =====
 
 Uploading Android application to several appstores could be time consuming. AppDF format is designed to simplify this process. You describe your Android application once, create a simple AppDF file that includes description, APK file(s), screenshots, app icon, promo images, etc and just upload this AppDF file to all the stores that support AppDF uploading.
